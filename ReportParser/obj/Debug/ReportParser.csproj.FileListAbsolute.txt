@@ -1,0 +1,8 @@
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\bin\Debug\ReportParser.exe.config
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\bin\Debug\ReportParser.exe
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\bin\Debug\ReportParser.pdb
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\obj\Debug\ReportParser.csprojAssemblyReference.cache
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\obj\Debug\ReportParser.csproj.CoreCompileInputs.cache
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\obj\Debug\ReportParser.exe
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\obj\Debug\ReportParser.pdb
+C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\obj\Debug\ReportParser.csproj.ResolveComReference.cache

@@ -12,7 +12,7 @@ namespace ReportParser
     {
         static void Main(string[] args)
         {
-            var docx = @"C:\Users\jacky_rxwx1ok\source\repos\ReportParser\ReportParser\bin\Debug\A.docx";
+            var docx = @"{HOME_SOURCE}\source\repos\ReportParser\ReportParser\bin\Debug\A.docx";
             try
             {
                 //建立開啟Word工具
